@@ -1,0 +1,20 @@
+a{
+    color: rgba(75, 61, 90, 0.96);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white
+
+}
+.main-page-heading{
+    color: black;
+    font-size: 50px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h1,h2{
+    text-align: center;
+}
