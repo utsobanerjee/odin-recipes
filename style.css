@@ -18,3 +18,12 @@ a{
 h1,h2{
     text-align: center;
 }
+.nutrition{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+li,p{
+    color: rgb(68, 23, 24);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
